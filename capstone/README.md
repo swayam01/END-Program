@@ -1,6 +1,4 @@
 # Capstone Project
-
-## Objective and Guidelines
 The capstone project is to write a transformer-based model that can write python code (with proper whitespace indentations). Here are the key points:
 
 1. The dataset has 4600+ examples of English text to Python code.
